@@ -2,5 +2,5 @@ import math
 
 class Prueba:
 
-    def inicial(self):
-        print "nada"
+    def fizzBuzz(self,numero):
+        return "fizz"
