@@ -3,4 +3,7 @@ import math
 class Prueba:
 
     def fizzBuzz(self,numero):
-        return "fizz"
+        if (numero % 3 == 0):
+            return "fizz"
+        else:
+            return numero
